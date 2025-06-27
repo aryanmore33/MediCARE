@@ -146,14 +146,21 @@ const Home = () => {
 
           </div>
 
-          
-        </div>  
+
+        </div>
       </section>
 
       {/* ================= service section ===================== */}
       <section>
         <div className="conatiner">
-          
+          <div className='xl:w-[450px] mx-auto'>
+            <h2 className='heading text-center'>
+              Our Medical Services
+            </h2>
+            <p className='text__para text-center'>
+              World-clss Care for Everyone. Our health system offers unmatched, expert health care. From lab to clinic.
+            </p>
+          </div>
         </div>
       </section>
       {/* ================= service section end ===================== */}
